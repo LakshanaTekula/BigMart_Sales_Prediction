@@ -10,8 +10,8 @@ Sales prediction is a crucial aspect of retail management, aiding in inventory p
 The Big Mart Sales Prediction project using linear models aims to assist retail businesses in optimizing inventory management and strategic planning. By employing advanced linear regression techniques, this project contributes to accurate sales forecasting, helping businesses make informed decisions and maximize profitability.
 
 ## Resources Used
-Packages: pandas, numpy, sklearn, matplotlib.
-Dataset from Kaggle: https://www.kaggle.com/datasets/ahmadrezagholami2001/bigmart-sales-dataset
+- Packages: pandas, numpy, sklearn, matplotlib.
+- Dataset from Kaggle: https://www.kaggle.com/datasets/ahmadrezagholami2001/bigmart-sales-dataset
 
 ## Model Building and Evaluation
 - Linear Regression : r2 score =  0.58
